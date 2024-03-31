@@ -1,0 +1,3 @@
+Country: Afghanistan, Capital: Kabul
+Country: American Samoa (USA), Capital: Pago Pago
+Country: Albania, Capital: Tirana
